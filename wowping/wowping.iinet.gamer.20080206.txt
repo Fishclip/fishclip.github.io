@@ -1,0 +1,466 @@
+wowping 1.4 - wowping@tanstaafl.com.au
+Data gathered on Wed Feb  6 18:46:29 WST 2008
++---------+------------------------+--------+--------+-----------+
+| Latency | Server name            | Type   | Region | Timezone/ |
+|         |                        |        |        | language  |
++---------+------------------------+--------+--------+-----------+
+| 0.226   | Draenor                | PvE    | US     | Pacific   |
+| 0.226   | Dragonblight           | PvE    | US     | Pacific   |
+| 0.226   | Draka                  | PvE    | US     | Central   |
+| 0.226   | Feathermoon            | RP     | US     | Pacific   |
+| 0.226   | Khaz'goroth            | PvE    | US     | Oceanic   |
+| 0.226   | Nagrand                | PvE    | US     | Oceanic   |
+| 0.227   | Arathor                | PvE    | US     | Pacific   |
+| 0.227   | Chromaggus             | PvP    | US     | Central   |
+| 0.227   | Jubei'Thos             | PvP    | US     | Oceanic   |
+| 0.227   | Kilrogg                | PvE    | US     | Pacific   |
+| 0.227   | Korgath                | PvP    | US     | Central   |
+| 0.227   | Proudmoore             | PvE    | US     | Pacific   |
+| 0.227   | Scarlet Crusade        | RP     | US     | Central   |
+| 0.227   | Silver Hand            | RP     | US     | Pacific   |
+| 0.227   | Silvermoon             | PvE    | US     | Pacific   |
+| 0.227   | Spirestone             | PvP    | US     | Pacific   |
+| 0.227   | Vek'nilash             | PvE    | US     | Central   |
+| 0.228   | Akama                  | PvP    | US     | Central   |
+| 0.228   | Crushridge             | PvP    | US     | Pacific   |
+| 0.228   | Daggerspine            | PvP    | US     | Pacific   |
+| 0.228   | Eldre'Thalas           | PvE    | US     | Eastern   |
+| 0.228   | Firetree               | PvP    | US     | Eastern   |
+| 0.228   | Frostmane              | PvP    | US     | Central   |
+| 0.228   | Frostmourne            | PvP    | US     | Oceanic   |
+| 0.228   | Frostwolf              | PvP    | US     | Pacific   |
+| 0.228   | Gurubashi              | PvP    | US     | Pacific   |
+| 0.228   | Mug'thol               | PvP    | US     | Central   |
+| 0.228   | Muradin                | PvE    | US     | Central   |
+| 0.228   | Rexxar                 | PvE    | US     | Central   |
+| 0.228   | Shadow Council         | RP     | US     | Mountain  |
+| 0.228   | Shadowsong             | PvE    | US     | Pacific   |
+| 0.229   | Bonechewer             | PvP    | US     | Pacific   |
+| 0.229   | Darkspear              | PvP    | US     | Mountain  |
+| 0.229   | Dath'Remar             | PvE    | US     | Oceanic   |
+| 0.229   | Eitrigg                | PvE    | US     | Central   |
+| 0.229   | Malorne                | PvP    | US     | Central   |
+| 0.229   | Terenas                | PvE    | US     | Mountain  |
+| 0.230   | Drak'thul              | PvP    | US     | Central   |
+| 0.230   | Garithos               | PvP    | US     | Central   |
+| 0.230   | Thaurissan             | PvP    | US     | Oceanic   |
+| 0.231   | Hakkar                 | PvP    | US     | Central   |
+| 0.239   | Aman'Thul              | PvE    | US     | Oceanic   |
+| 0.239   | Kul Tiras              | PvE    | US     | Central   |
+| 0.239   | Smolderthorn           | PvP    | US     | Eastern   |
+| 0.239   | Stormscale             | PvP    | US     | Pacific   |
+| 0.239   | Uldum                  | PvE    | US     | Pacific   |
+| 0.239   | Windrunner             | PvE    | US     | Pacific   |
+| 0.240   | Aegwynn                | PvP    | US     | Central   |
+| 0.240   | Blackrock              | PvP    | US     | Pacific   |
+| 0.240   | Suramar                | PvE    | US     | Pacific   |
+| 0.240   | Thorium Brotherhood    | RP     | US     | Central   |
+| 0.241   | Azjol-Nerub            | PvE    | US     | Mountain  |
+| 0.241   | Barthilas              | PvP    | US     | Oceanic   |
+| 0.241   | Boulderfist            | PvP    | US     | Pacific   |
+| 0.241   | Bronzebeard            | PvE    | US     | Pacific   |
+| 0.241   | Caelestrasz            | PvE    | US     | Oceanic   |
+| 0.241   | Dragonmaw              | PvP    | US     | Pacific   |
+| 0.241   | Nathrezim              | PvP    | US     | Mountain  |
+| 0.241   | Sen'jin                | PvE    | US     | Central   |
+| 0.241   | Skywall                | PvE    | US     | Pacific   |
+| 0.241   | Stonemaul              | PvP    | US     | Pacific   |
+| 0.242   | Bloodscalp             | PvP    | US     | Mountain  |
+| 0.242   | Dunemaul               | PvP    | US     | Pacific   |
+| 0.242   | Khaz Modan             | PvE    | US     | Central   |
+| 0.242   | Ner'zhul               | PvP    | US     | Pacific   |
+| 0.242   | Perenolde              | PvP    | US     | Mountain  |
+| 0.242   | Runetotem              | PvE    | US     | Central   |
+| 0.244   | Kil'jaeden             | PvP    | US     | Pacific   |
+| 0.247   | Tichondrius            | PvP    | US     | Pacific   |
+| 0.253   | Bladefist              | PvE    | US     | Pacific   |
+| 0.253   | Echo Isles             | PvE    | US     | Pacific   |
+| 0.253   | Fenris                 | PvE    | US     | Eastern   |
+| 0.253   | Ravenholdt             | RP-PvP | US     | Eastern   |
+| 0.255   | Cenarius               | PvE    | US     | Pacific   |
+| 0.255   | Lightbringer           | PvE    | US     | Pacific   |
+| 0.255   | Maiev                  | PvP    | US     | Pacific   |
+| 0.255   | Tortheldrin            | PvP    | US     | Eastern   |
+| 0.255   | Vashj                  | PvP    | US     | Pacific   |
+| 0.256   | Nazgrel                | PvE    | US     | Eastern   |
+| 0.257   | Farstriders            | RP     | US     | Central   |
+| 0.257   | Nordrassil             | PvE    | US     | Pacific   |
+| 0.258   | Alleria                | PvE    | US     | Central   |
+| 0.258   | Dark Iron              | PvP    | US     | Pacific   |
+| 0.258   | Destromath             | PvP    | US     | Pacific   |
+| 0.258   | Hellscream             | PvE    | US     | Central   |
+| 0.258   | Lightninghoof          | RP-PvP | US     | Central   |
+| 0.258   | Spinebreaker           | PvP    | US     | Pacific   |
+| 0.259   | Gul'dan                | PvP    | US     | Central   |
+| 0.260   | Agamaggan              | PvP    | US     | Central   |
+| 0.260   | Baelgun                | PvE    | US     | Pacific   |
+| 0.260   | Blackhand              | PvE    | US     | Central   |
+| 0.260   | Detheroc               | PvP    | US     | Central   |
+| 0.260   | Kalecgos               | PvP    | US     | Pacific   |
+| 0.260   | Ravencrest             | PvE    | US     | Central   |
+| 0.261   | Alexstrasza            | PvE    | US     | Central   |
+| 0.261   | Azshara                | PvP    | US     | Eastern   |
+| 0.261   | Balnazzar              | PvP    | US     | Central   |
+| 0.261   | Cho'gall               | PvP    | US     | Central   |
+| 0.261   | Emerald Dream          | RP-PvP | US     | Central   |
+| 0.261   | Kirin Tor              | RP     | US     | Central   |
+| 0.261   | Sargeras               | PvP    | US     | Central   |
+| 0.261   | Staghelm               | PvE    | US     | Central   |
+| 0.261   | Whisperwind            | PvE    | US     | Central   |
+| 0.262   | Gorgonnash             | PvP    | US     | Pacific   |
+| 0.262   | Maelstrom              | RP-PvP | US     | Central   |
+| 0.262   | Nazjatar               | PvP    | US     | Pacific   |
+| 0.262   | Twisting Nether        | RP-PvP | US     | Central   |
+| 0.264   | Drenden                | PvE    | US     | Eastern   |
+| 0.264   | Korialstrasz           | PvE    | US     | Pacific   |
+| 0.264   | Shandris               | PvE    | US     | Eastern   |
+| 0.265   | Arthas                 | PvP    | US     | Eastern   |
+| 0.265   | Blackwater Raiders     | RP     | US     | Pacific   |
+| 0.265   | Darrowmere             | PvP    | US     | Pacific   |
+| 0.265   | Lothar                 | PvE    | US     | Eastern   |
+| 0.265   | Magtheridon            | PvP    | US     | Eastern   |
+| 0.265   | Mok'Nathal             | PvE    | US     | Pacific   |
+| 0.265   | The Forgotten Coast    | PvP    | US     | Eastern   |
+| 0.266   | Antonidas              | PvE    | US     | Pacific   |
+| 0.266   | Cenarion Circle        | RP     | US     | Pacific   |
+| 0.266   | Laughing Skull         | PvP    | US     | Central   |
+| 0.266   | Rivendare              | PvP    | US     | Pacific   |
+| 0.266   | Shadowmoon             | PvP    | US     | Eastern   |
+| 0.267   | Burning Legion         | PvP    | US     | Central   |
+| 0.267   | Earthen Ring           | RP     | US     | Eastern   |
+| 0.267   | Gorefiend              | PvP    | US     | Eastern   |
+| 0.267   | Hydraxis               | PvE    | US     | Central   |
+| 0.267   | Hyjal                  | PvE    | US     | Pacific   |
+| 0.267   | Llane                  | PvE    | US     | Eastern   |
+| 0.267   | Misha                  | PvE    | US     | Pacific   |
+| 0.267   | Moon Guard             | RP     | US     | Central   |
+| 0.267   | Shu'halo               | PvE    | US     | Pacific   |
+| 0.267   | Sisters of Elune       | RP     | US     | Central   |
+| 0.267   | Thunderhorn            | PvE    | US     | Central   |
+| 0.267   | Uther                  | PvE    | US     | Pacific   |
+| 0.268   | Anub'arak              | PvP    | US     | Central   |
+| 0.268   | Azgalor                | PvP    | US     | Central   |
+| 0.268   | Elune                  | PvE    | US     | Eastern   |
+| 0.268   | Eonar                  | PvE    | US     | Eastern   |
+| 0.268   | Kargath                | PvE    | US     | Eastern   |
+| 0.268   | Lightning's Blade      | PvP    | US     | Eastern   |
+| 0.268   | Zul'jin                | PvE    | US     | Eastern   |
+| 0.269   | Medivh                 | PvE    | US     | Eastern   |
+| 0.269   | Skullcrusher           | PvP    | US     | Eastern   |
+| 0.269   | Stormrage              | PvE    | US     | Eastern   |
+| 0.269   | Thunderlord            | PvP    | US     | Central   |
+| 0.271   | Bleeding Hollow        | PvP    | US     | Eastern   |
+| 0.271   | Eredar                 | PvP    | US     | Eastern   |
+| 0.272   | Aggramar               | PvE    | US     | Central   |
+| 0.272   | Argent Dawn            | RP     | US     | Eastern   |
+| 0.272   | Bloodhoof              | PvE    | US     | Eastern   |
+| 0.272   | Gilneas                | PvE    | US     | Eastern   |
+| 0.272   | Madoran                | PvE    | US     | Central   |
+| 0.272   | Warsong                | PvP    | US     | Eastern   |
+| 0.274   | Burning Blade          | PvP    | US     | Eastern   |
+| 0.274   | Mannoroth              | PvP    | US     | Eastern   |
+| 0.279   | Garona                 | PvE    | US     | Central   |
+| 0.280   | Illidan                | PvP    | US     | Central   |
+| 0.281   | Dethecus               | PvP    | US     | Pacific   |
+| 0.281   | Ursin                  | PvP    | US     | Pacific   |
+| 0.281   | Wildhammer             | PvP    | US     | Central   |
+| 0.282   | Stormreaver            | PvP    | US     | Central   |
+| 0.284   | Malfurion              | PvE    | US     | Central   |
+| 0.287   | Moonrunner             | PvE    | US     | Pacific   |
+| 0.289   | Shattered Hand         | PvP    | US     | Eastern   |
+| 0.291   | Durotan                | PvE    | US     | Eastern   |
+| 0.293   | Malygos                | PvE    | US     | Central   |
+| 0.305   | Alterac Mountains      | PvP    | US     | Eastern   |
+| 0.305   | Haomarush              | PvP    | US     | Eastern   |
+| 0.305   | Sentinels              | RP     | US     | Pacific   |
+| 0.305   | Turalyon               | PvE    | US     | Eastern   |
+| 0.305   | Velen                  | PvE    | US     | Pacific   |
+| 0.306   | Altar of Storms        | PvP    | US     | Eastern   |
+| 0.306   | Andorhal               | PvP    | US     | Eastern   |
+| 0.306   | Area 52                | PvE    | US     | Eastern   |
+| 0.306   | Blackwing Lair         | PvP    | US     | Pacific   |
+| 0.306   | Blade's Edge           | PvE    | US     | Pacific   |
+| 0.306   | Blood Furnace          | PvP    | US     | Central   |
+| 0.306   | Coilfang               | PvP    | US     | Pacific   |
+| 0.306   | Demon Soul             | PvP    | US     | Eastern   |
+| 0.306   | Exodar                 | PvE    | US     | Eastern   |
+| 0.306   | Jaedenar               | PvP    | US     | Eastern   |
+| 0.306   | Lethon                 | PvP    | US     | Pacific   |
+| 0.306   | Ysera                  | PvE    | US     | Eastern   |
+| 0.307   | Aerie Peak             | PvE    | US     | Pacific   |
+| 0.307   | Auchindoun             | PvP    | US     | Central   |
+| 0.307   | Norgannon              | PvE    | US     | Eastern   |
+| 0.307   | Steamwheedle Cartel    | RP     | US     | Eastern   |
+| 0.307   | The Underbog           | PvP    | US     | Central   |
+| 0.307   | Ysondre                | PvP    | US     | Eastern   |
+| 0.307   | Zuluhed                | PvP    | US     | Eastern   |
+| 0.308   | Archimonde             | PvP    | US     | Central   |
+| 0.308   | Dalaran                | PvE    | US     | Eastern   |
+| 0.308   | Gnomeregan             | PvE    | US     | Pacific   |
+| 0.308   | Mal'Ganis              | PvP    | US     | Central   |
+| 0.308   | Scilla                 | PvP    | US     | Eastern   |
+| 0.308   | Terokkar               | PvE    | US     | Central   |
+| 0.308   | Thrall                 | PvE    | US     | Eastern   |
+| 0.308   | Uldaman                | PvE    | US     | Eastern   |
+| 0.309   | Arygos                 | PvE    | US     | Eastern   |
+| 0.309   | Dalvengyr              | PvP    | US     | Eastern   |
+| 0.309   | Dentarg                | PvP    | US     | Eastern   |
+| 0.309   | Duskwood               | PvE    | US     | Eastern   |
+| 0.309   | The Scryers            | RP     | US     | Pacific   |
+| 0.309   | The Venture Co         | RP-PvP | US     | Pacific   |
+| 0.309   | Zangarmarsh            | PvE    | US     | Mountain  |
+| 0.310   | Anvilmar               | PvE    | US     | Pacific   |
+| 0.310   | Doomhammer             | PvE    | US     | Mountain  |
+| 0.310   | Executus               | PvP    | US     | Eastern   |
+| 0.310   | Kel'Thuzad             | PvP    | US     | Mountain  |
+| 0.310   | Khadgar                | PvE    | US     | Eastern   |
+| 0.310   | Shattered Halls        | PvP    | US     | Pacific   |
+| 0.310   | Tanaris                | PvE    | US     | Eastern   |
+| 0.310   | Undermine              | PvE    | US     | Eastern   |
+| 0.311   | Anetheron              | PvP    | US     | Eastern   |
+| 0.311   | Icecrown               | PvP    | US     | Mountain  |
+| 0.312   | Black Dragonflight     | PvP    | US     | Eastern   |
+| 0.312   | Onyxia                 | PvP    | US     | Pacific   |
+| 0.314   | Azuremyst              | PvE    | US     | Pacific   |
+| 0.375   | Dun Modr               | PvP    | EU     | Spanish   |
+| 0.375   | Kul Tiras              | PvE    | EU     | English   |
+| 0.376   | Agamaggan              | PvP    | EU     | English   |
+| 0.376   | Anetheron              | PvP    | EU     | German    |
+| 0.376   | Cho'gall               | PvP    | EU     | French    |
+| 0.376   | Confrerie du Thorium   | RP-PvE | EU     | French    |
+| 0.376   | Crushridge             | PvP    | EU     | English   |
+| 0.376   | Dethecus               | PvP    | EU     | German    |
+| 0.376   | Executus               | PvP    | EU     | English   |
+| 0.376   | Un'Goro                | PvP    | EU     | German    |
+| 0.376   | Warsong                | PvP    | EU     | English   |
+| 0.377   | Alonsus                | PvE    | EU     | English   |
+| 0.377   | Anachronos             | PvE    | EU     | English   |
+| 0.377   | Arak-arahm             | PvP    | EU     | French    |
+| 0.377   | Arathor                | PvE    | EU     | English   |
+| 0.377   | Archimonde             | PvP    | EU     | French    |
+| 0.377   | Bloodhoof              | PvE    | EU     | English   |
+| 0.377   | Bloodscalp             | PvP    | EU     | English   |
+| 0.377   | Bronze Dragonflight    | PvE    | EU     | English   |
+| 0.377   | Burning Legion         | PvP    | EU     | English   |
+| 0.377   | Burning Steppes        | PvP    | EU     | English   |
+| 0.377   | Chromaggus             | PvP    | EU     | English   |
+| 0.377   | Darkspear              | PvE    | EU     | English   |
+| 0.377   | Forscherliga           | RP-PvE | EU     | German    |
+| 0.377   | Hellfire               | PvE    | EU     | English   |
+| 0.377   | Karazhan               | PvP    | EU     | English   |
+| 0.377   | Les Clairvoyants       | RP-PvE | EU     | French    |
+| 0.377   | Lightbringer           | PvE    | EU     | English   |
+| 0.377   | Los Errantes           | RP-PvE | EU     | Spanish   |
+| 0.377   | Medivh                 | PvE    | EU     | French    |
+| 0.377   | Shattered Halls        | PvP    | EU     | English   |
+| 0.377   | Shattrath              | PvE    | EU     | German    |
+| 0.377   | Sporeggar              | RP-PvP | EU     | English   |
+| 0.377   | Thrall                 | PvE    | EU     | German    |
+| 0.378   | Aggramar               | PvE    | EU     | English   |
+| 0.378   | Argent Dawn            | RP     | EU     | English   |
+| 0.378   | Arthas                 | PvP    | EU     | German    |
+| 0.378   | Arygos                 | PvE    | EU     | German    |
+| 0.378   | Azshara                | PvP    | EU     | German    |
+| 0.378   | Bronzebeard            | PvE    | EU     | English   |
+| 0.378   | Burning Blade          | PvP    | EU     | English   |
+| 0.378   | Das Konsortium         | RP-PvP | EU     | German    |
+| 0.378   | Die Aldor              | RP-PvE | EU     | German    |
+| 0.378   | Draenor                | PvE    | EU     | English   |
+| 0.378   | Dragonmaw              | PvP    | EU     | English   |
+| 0.378   | Eitrigg                | PvE    | EU     | French    |
+| 0.378   | Hyjal                  | PvE    | EU     | French    |
+| 0.378   | Kirin Tor              | RP-PvE | EU     | French    |
+| 0.378   | Molten Core            | PvP    | EU     | English   |
+| 0.378   | Moonglade              | RP     | EU     | English   |
+| 0.378   | Nazjatar               | PvP    | EU     | German    |
+| 0.378   | Ner'zhul               | PvP    | EU     | French    |
+| 0.378   | Norgannon              | PvE    | EU     | German    |
+| 0.378   | Shen'dralar            | RP-PvP | EU     | Spanish   |
+| 0.378   | Sinstralis             | PvP    | EU     | French    |
+| 0.378   | Teldrassil             | PvE    | EU     | German    |
+| 0.378   | Temple noir            | PvP    | EU     | French    |
+| 0.378   | The Sha'tar            | RP     | EU     | English   |
+| 0.378   | Tichondrius            | PvP    | EU     | German    |
+| 0.378   | Todeswache             | RP     | EU     | German    |
+| 0.378   | Tyrande                | PvE    | EU     | Spanish   |
+| 0.378   | Uldaman                | PvE    | EU     | French    |
+| 0.378   | Vol'jin                | PvE    | EU     | French    |
+| 0.379   | Azjol-Nerub            | PvE    | EU     | English   |
+| 0.379   | Bladefist              | PvP    | EU     | English   |
+| 0.379   | Blutkessel             | PvP    | EU     | German    |
+| 0.379   | Chants eternels        | PvR    | EU     | French    |
+| 0.379   | Darkmoon Faire         | RP     | EU     | English   |
+| 0.379   | Der Mithrilorden       | RP-PvE | EU     | German    |
+| 0.379   | Garona                 | PvP    | EU     | French    |
+| 0.379   | Ghostlands             | PvE    | EU     | English   |
+| 0.379   | Khadgar                | PvE    | EU     | English   |
+| 0.379   | Kor'gall               | PvP    | EU     | English   |
+| 0.379   | La Croisade ecarlate   | RP-PvP | EU     | French    |
+| 0.379   | Minahonda              | PvE    | EU     | Spanish   |
+| 0.379   | Nethersturm            | PvE    | EU     | German    |
+| 0.379   | Sargeras               | PvP    | EU     | French    |
+| 0.380   | Aszune                 | PvE    | EU     | English   |
+| 0.380   | Auchindoun             | PvP    | EU     | English   |
+| 0.380   | Blackmoore             | PvP    | EU     | German    |
+| 0.380   | Daggerspine            | PvP    | EU     | English   |
+| 0.380   | Dragonblight           | PvE    | EU     | English   |
+| 0.380   | Dunemaul               | PvP    | EU     | English   |
+| 0.380   | Echsenkessel           | PvP    | EU     | German    |
+| 0.380   | Emerald Dream          | PvE    | EU     | English   |
+| 0.380   | Kael'thas              | PvP    | EU     | French    |
+| 0.380   | Marecage de Zangar     | PvE    | EU     | French    |
+| 0.380   | Nagrand                | PvE    | EU     | English   |
+| 0.380   | Naxxramas              | PvP    | EU     | French    |
+| 0.380   | Uldum                  | PvP    | EU     | Spanish   |
+| 0.380   | Zenedar                | PvP    | EU     | English   |
+| 0.381   | Al'Akir                | PvP    | EU     | English   |
+| 0.381   | C'Thun                 | PvP    | EU     | Spanish   |
+| 0.381   | Dalaran                | PvE    | EU     | French    |
+| 0.381   | Deathwing              | PvP    | EU     | English   |
+| 0.381   | Dentarg                | PvP    | EU     | English   |
+| 0.381   | Doomhammer             | PvE    | EU     | English   |
+| 0.381   | Festungder Sturme      | PvP    | EU     | German    |
+| 0.382   | Illidan                | PvP    | EU     | French    |
+| 0.382   | Sunstrider             | PvP    | EU     | English   |
+| 0.384   | Magtheridon            | PvP    | EU     | English   |
+| 0.385   | Darksorrow             | PvP    | EU     | English   |
+| 0.385   | Laughing Skull         | PvP    | EU     | English   |
+| 0.385   | Nathrezim              | PvP    | EU     | German    |
+| 0.385   | Quel'Thalas            | PvE    | EU     | English   |
+| 0.385   | Stormscale             | PvP    | EU     | English   |
+| 0.385   | Sylvanas               | PvP    | EU     | English   |
+| 0.385   | Terrordar              | PvP    | EU     | German    |
+| 0.385   | Twilight's Hammer      | PvP    | EU     | English   |
+| 0.385   | Varimathras            | PvP    | EU     | French    |
+| 0.386   | Aman'Thul              | PvE    | EU     | German    |
+| 0.386   | Antonidas              | PvE    | EU     | German    |
+| 0.386   | Baelgun                | PvE    | EU     | German    |
+| 0.386   | Bloodfeather           | PvP    | EU     | English   |
+| 0.386   | Das Syndikat           | RP-PvP | EU     | German    |
+| 0.386   | Dun Morogh             | PvE    | EU     | German    |
+| 0.386   | Eredar                 | PvP    | EU     | German    |
+| 0.386   | Frostwolf              | PvP    | EU     | German    |
+| 0.386   | Gul'dan                | PvP    | EU     | German    |
+| 0.386   | Krag'jin               | PvP    | EU     | German    |
+| 0.386   | Neptulon               | PvP    | EU     | English   |
+| 0.386   | Nera'thor              | PvP    | EU     | German    |
+| 0.386   | Nozdormu               | PvE    | EU     | German    |
+| 0.386   | Sen'jin                | PvE    | EU     | German    |
+| 0.386   | Silvermoon             | PvE    | EU     | English   |
+| 0.386   | Stormrage              | PvE    | EU     | English   |
+| 0.386   | Stormreaver            | PvP    | EU     | English   |
+| 0.387   | Anub'arak              | PvP    | EU     | German    |
+| 0.387   | Balnazzar              | PvP    | EU     | English   |
+| 0.387   | Conseil des Ombres     | RP-PvP | EU     | French    |
+| 0.387   | Defias Brotherhood     | RP-PvP | EU     | English   |
+| 0.387   | Der Rat von Dalaran    | RP-PvE | EU     | German    |
+| 0.387   | Earthen Ring           | RP     | EU     | English   |
+| 0.387   | Frostmourne            | PvP    | EU     | German    |
+| 0.387   | Khaz Modan             | PvE    | EU     | French    |
+| 0.387   | Madmortem              | PvE    | EU     | German    |
+| 0.387   | Mal'Ganis              | PvP    | EU     | German    |
+| 0.387   | Proudmoore             | PvE    | EU     | German    |
+| 0.387   | Rashgarroth            | PvP    | EU     | French    |
+| 0.387   | Shadowsong             | PvE    | EU     | English   |
+| 0.387   | Shattered Hand         | PvP    | EU     | English   |
+| 0.387   | Thunderhorn            | PvE    | EU     | English   |
+| 0.387   | Twisting Nether        | PvP    | EU     | English   |
+| 0.387   | Wrathbringer           | PvP    | EU     | German    |
+| 0.388   | Alleria                | PvE    | EU     | German    |
+| 0.388   | Genjuros               | PvP    | EU     | English   |
+| 0.388   | Hellscream             | PvE    | EU     | English   |
+| 0.388   | Kel'Thuzad             | PvP    | EU     | German    |
+| 0.388   | Lightning's Blade      | PvP    | EU     | English   |
+| 0.388   | Malfurion              | PvE    | EU     | German    |
+| 0.388   | Nordrassil             | PvE    | EU     | English   |
+| 0.388   | Perenolde              | PvE    | EU     | German    |
+| 0.388   | Shadowmoon             | PvP    | EU     | English   |
+| 0.388   | Terenas                | PvE    | EU     | English   |
+| 0.388   | Theradras              | PvP    | EU     | German    |
+| 0.388   | The Venture Co         | RP-PvP | EU     | English   |
+| 0.388   | Throk'Feroth           | PvP    | EU     | French    |
+| 0.388   | Zirkeldes Cenarius     | RP-PvE | EU     | German    |
+| 0.389   | Drek'Thar              | PvE    | EU     | French    |
+| 0.389   | Les Sentinelles        | RP-PvE | EU     | French    |
+| 0.389   | Onyxia                 | PvP    | EU     | German    |
+| 0.389   | Ravencrest             | PvP    | EU     | English   |
+| 0.389   | Spinebreaker           | PvP    | EU     | English   |
+| 0.389   | The Maelstrom          | PvP    | EU     | English   |
+| 0.389   | Turalyon               | PvE    | EU     | English   |
+| 0.389   | Zul'jin                | PvP    | EU     | Spanish   |
+| 0.390   | Alexstrasza            | PvE    | EU     | German    |
+| 0.390   | Boulderfist            | PvP    | EU     | English   |
+| 0.390   | Die Silberne Hand      | RP-PvE | EU     | German    |
+| 0.390   | Frostwhisper           | PvP    | EU     | English   |
+| 0.390   | Gorgonnash             | PvP    | EU     | German    |
+| 0.390   | Kult der Verdammten    | RP-PvP | EU     | German    |
+| 0.390   | Mannoroth              | PvP    | EU     | German    |
+| 0.390   | Ragnaros               | PvP    | EU     | English   |
+| 0.390   | Tirion                 | PvE    | EU     | German    |
+| 0.390   | Vashj                  | PvP    | EU     | English   |
+| 0.390   | Vek'lor                | PvP    | EU     | German    |
+| 0.390   | Ysondre                | PvP    | EU     | French    |
+| 0.391   | Aegwynn                | PvP    | EU     | German    |
+| 0.391   | Blackhand              | PvE    | EU     | German    |
+| 0.391   | Elune                  | PvE    | EU     | French    |
+| 0.391   | Jaedenar               | PvP    | EU     | English   |
+| 0.391   | Kil'jaeden             | PvP    | EU     | German    |
+| 0.391   | Rajaxx                 | PvP    | EU     | German    |
+| 0.391   | Runetotem              | PvE    | EU     | English   |
+| 0.391   | Skullcrusher           | PvP    | EU     | English   |
+| 0.391   | Tarren Mill            | PvP    | EU     | English   |
+| 0.392   | Destromath             | PvP    | EU     | German    |
+| 0.392   | Krasus                 | PvE    | EU     | French    |
+| 0.393   | Der abyssische Rat     | RP-PvP | EU     | German    |
+| 0.393   | Eldre'Thalas           | PvP    | EU     | French    |
+| 0.393   | Haomarush              | PvP    | EU     | English   |
+| 0.393   | Outland                | PvP    | EU     | English   |
+| 0.395   | Arathi                 | PvP    | EU     | French    |
+| 0.395   | Die Nachtwache         | RP     | EU     | German    |
+| 0.396   | Lordaeron              | PvE    | EU     | German    |
+| 0.397   | Mug'thol               | PvP    | EU     | German    |
+| 0.397   | Stonemaul              | PvP    | EU     | English   |
+| 0.397   | Taerar                 | PvP    | EU     | German    |
+| 0.398   | Kilrogg                | PvE    | EU     | English   |
+| 0.399   | Kazzak                 | PvP    | EU     | English   |
+| 0.399   | Vek'nilash             | PvP    | EU     | English   |
+| 0.400   | Suramar                | PvE    | EU     | French    |
+| 0.401   | Ambossar               | PvE    | EU     | German    |
+| 0.402   | Frostmane              | PvP    | EU     | English   |
+| 0.403   | Aerie Peak             | PvE    | EU     | English   |
+| 0.403   | Ravenholdt             | RP-PvP | EU     | English   |
+| 0.404   | Culte de la Rive Noire | RP-PvP | EU     | French    |
+| 0.404   | Wildhammer             | PvE    | EU     | English   |
+| 0.405   | Eonar                  | PvE    | EU     | English   |
+| 0.406   | Dalvengyr              | PvP    | EU     | German    |
+| 0.409   | Grim Batol             | PvP    | EU     | English   |
+| Timeout | Ahn'Qiraj              | PvP    | EU     | English   |
+| Timeout | Blackrock              | PvP    | EU     | English   |
+| Timeout | Deathwing              | PvP    | US     | Mountain  |
+| Timeout | Die Arguswacht         | RP-PvP | EU     | German    |
+| Timeout | Die ewige Wacht        | RP-PvE | EU     | German    |
+| Timeout | Die Todeskrallen       | RP-PvP | EU     | German    |
+| Timeout | Drak'thul              | PvP    | EU     | English   |
+| Timeout | Durotan                | PvE    | EU     | German    |
+| Timeout | Emeriss                | PvP    | EU     | English   |
+| Timeout | Gilneas                | PvE    | EU     | German    |
+| Timeout | Greymane               | PvE    | US     | Central   |
+| Timeout | Hakkar                 | PvP    | EU     | English   |
+| Timeout | Kael'thas              | PvE    | US     | Central   |
+| Timeout | Kargath                | PvE    | EU     | German    |
+| Timeout | Khaz'goroth            | PvE    | EU     | German    |
+| Timeout | Lothar                 | PvE    | EU     | German    |
+| Timeout | Malygos                | PvE    | EU     | German    |
+| Timeout | Mazrigos               | PvP    | EU     | English   |
+| Timeout | Nefarian               | PvP    | EU     | German    |
+| Timeout | Quel'dorei             | PvE    | US     | Central   |
+| Timeout | Rexxar                 | PvE    | EU     | German    |
+| Timeout | Scarshield Legion      | RP-PvP | EU     | English   |
+| Timeout | Steamwheedle Cartel    | RP     | EU     | English   |
+| Timeout | Talnivarr              | PvP    | EU     | English   |
+| Timeout | Trollbane              | PvE    | US     | Eastern   |
+| Timeout | Trollbane              | PvP    | EU     | English   |
+| Timeout | Xavius                 | PvP    | EU     | English   |
+| Timeout | Ysera                  | PvE    | EU     | German    |
+| Timeout | Zuluhed                | PvP    | EU     | German    |
++---------+------------------------+--------+--------+-----------+

@@ -1,0 +1,383 @@
+wowping 1.6.1 - wowping@tanstaafl.com.au
+
+Data gathered on Mon Aug  2 02:08:26 WST 2010
+
+This tool builds a dynamic list of World of Warcraft realms and calculates
+each realm's latency.  The in-game latency display will be greater than the
+latency listed below, but the list will give an indication of the relative
+latency of realms from Perth, Western Australia.
+
+Realms with a latency of "Timeout" indicate the server is either not
+contactable or it's latency is greater than 2 seconds.  A latency of
+"Unknown" means the IP address of the server is not available so it's
+latency cannot be calculated.
+
+The IP address of a realm may change at any time and some realms change
+more requently than others.  Once a realm's IP address is no longer is use
+it may then be taken by a different realm.  For these reasons the older the
+realm IP list is, the less likely it is to be accurate.  It isn't difficult
+to obtain a current listing of realm IP addresses although one must use the
+World of Warcraft client.  As I no longer have this installed on my PC,
+this task is left to someone else.
+
+Server list generated dynamically via data from
+http://www.wowwiki.com/US_realm_list_by_datacenter and
+http://www.wowwiki.com/EU_English_Realms_Info
+
++------------+---------------------+--------+---------------+-------------+
+| Latency in | Realm name          | Type   | Timezone      | Battlegroup |
+| seconds    |                     |        |               |             |
++------------+---------------------+--------+---------------+-------------+
+| 0.30       | Drak'thul           | PvP    | US Central    | Vengeance   |
+| 0.30       | Korialstrasz        | PvE    | US Pacific    | Whirlwind   |
+| 0.30       | Quel'dorei          | PvE    | US Central    | Emberstorm  |
+| 0.31       | Antonidas           | PvE    | US Pacific    | Emberstorm  |
+| 0.31       | Blackwater Raiders  | RP-PvE | US Pacific    | Whirlwind   |
+| 0.31       | Bladefist           | PvE    | US Pacific    | Whirlwind   |
+| 0.31       | Shandris            | PvE    | US Eastern    | Emberstorm  |
+| 0.31       | Sisters of Elune    | RP-PvE | US Central    | Whirlwind   |
+| 0.31       | The Forgotten Coast | PvP    | US Eastern    | Whirlwind   |
+| 0.31       | Wyrmrest Accord     | RP-PvE | US Pacific    | Emberstorm  |
+| 0.32       | Borean Tundra       | PvE    | US Central    | Emberstorm  |
+| 0.32       | Cenarion Circle     | RP-PvE | US Pacific    | Whirlwind   |
+| 0.32       | Cenarius            | PvE    | US Pacific    | Whirlwind   |
+| 0.32       | Darrowmere          | PvP    | US Pacific    | Whirlwind   |
+| 0.32       | Drak'Tharon         | PvP    | US Central    | Emberstorm  |
+| 0.32       | Drenden             | PvE    | US Eastern    | Emberstorm  |
+| 0.32       | Echo Isles          | PvE    | US Pacific    | Whirlwind   |
+| 0.32       | Farstriders         | RP-PvE | US Central    | Emberstorm  |
+| 0.32       | Fenris              | PvE    | US Eastern    | Whirlwind   |
+| 0.32       | Hydraxis            | PvE    | US Central    | Emberstorm  |
+| 0.32       | Hyjal               | PvE    | US Pacific    | Whirlwind   |
+| 0.32       | Lightbringer        | PvE    | US Pacific    | Whirlwind   |
+| 0.32       | Maiev               | PvP    | US Pacific    | Whirlwind   |
+| 0.32       | Misha               | PvE    | US Pacific    | Whirlwind   |
+| 0.32       | Mok'Nathal          | PvE    | US Central    | Emberstorm  |
+| 0.32       | Moon Guard          | RP-PvE | US Central    | Emberstorm  |
+| 0.32       | Nazgrel             | PvE    | US Eastern    | Emberstorm  |
+| 0.32       | Nesingwary          | PvE    | US Central    | Emberstorm  |
+| 0.32       | Ravenholdt          | RP-PvP | US Eastern    | Whirlwind   |
+| 0.32       | Rivendare           | PvP    | US Pacific    | Emberstorm  |
+| 0.32       | Tortheldrin         | PvP    | US Eastern    | Emberstorm  |
+| 0.32       | Vashj               | PvP    | US Pacific    | Whirlwind   |
+| 0.33       | Nordrassil          | PvE    | US Pacific    | Emberstorm  |
+| 0.33       | Shu'halo            | PvE    | US Pacific    | Whirlwind   |
+| 0.33       | Uther               | PvE    | US Pacific    | Whirlwind   |
+| 0.34       | Argent Dawn         | RP-PvE | US Eastern    | Ruin        |
+| 0.34       | Bloodhoof           | PvE    | US Eastern    | Ruin        |
+| 0.34       | Destromath          | PvP    | US Pacific    | Rampage     |
+| 0.34       | Durotan             | PvE    | US Eastern    | Ruin        |
+| 0.34       | Kirin Tor           | RP-PvE | US Central    | Rampage     |
+| 0.34       | Lightninghoof       | RP-PvP | US Central    | Shadowburn  |
+| 0.34       | Maelstrom           | RP-PvP | US Central    | Shadowburn  |
+| 0.34       | Moonrunner          | PvE    | US Pacific    | Shadowburn  |
+| 0.34       | Winterhoof          | PvE    | US Central    | Whirlwind   |
+| 0.35       | Aggramar            | PvE    | US Central    | Vindication |
+| 0.35       | Alexstrasza         | PvE    | US Central    | Rampage     |
+| 0.35       | Arthas              | PvP    | US Eastern    | Ruin        |
+| 0.35       | Azgalor             | PvP    | US Central    | Ruin        |
+| 0.35       | Azshara             | PvP    | US Eastern    | Shadowburn  |
+| 0.35       | Baelgun             | PvE    | US Pacific    | Shadowburn  |
+| 0.35       | Balnazzar           | PvP    | US Central    | Rampage     |
+| 0.35       | Blackhand           | PvE    | US Central    | Rampage     |
+| 0.35       | Bleeding Hollow     | PvP    | US Eastern    | Ruin        |
+| 0.35       | Burning Blade       | PvP    | US Eastern    | Vindication |
+| 0.35       | Burning Legion      | PvP    | US Central    | Vindication |
+| 0.35       | Dark Iron           | PvP    | US Pacific    | Shadowburn  |
+| 0.35       | Detheroc            | PvP    | US Central    | Shadowburn  |
+| 0.35       | Drakkari            | PvP    | US Central    | Vindication |
+| 0.35       | Elune               | PvE    | US Eastern    | Ruin        |
+| 0.35       | Emerald Dream       | RP-PvP | US Central    | Shadowburn  |
+| 0.35       | Eonar               | PvE    | US Eastern    | Vindication |
+| 0.35       | Eredar              | PvP    | US Eastern    | Vindication |
+| 0.35       | Garona              | PvE    | US Central    | Rampage     |
+| 0.35       | Gilneas             | PvE    | US Eastern    | Vindication |
+| 0.35       | Gorgonnash          | PvP    | US Pacific    | Rampage     |
+| 0.35       | Greymane            | PvE    | US Central    | Shadowburn  |
+| 0.35       | Gul'dan             | PvP    | US Central    | Rampage     |
+| 0.35       | Hellscream          | PvE    | US Central    | Rampage     |
+| 0.35       | Illidan             | PvP    | US Central    | Rampage     |
+| 0.35       | Kael'thas           | PvE    | US Central    | Rampage     |
+| 0.35       | Kalecgos            | PvP    | US Pacific    | Shadowburn  |
+| 0.35       | Kargath             | PvE    | US Eastern    | Vindication |
+| 0.35       | Lightning's Blade   | PvP    | US Eastern    | Vindication |
+| 0.35       | Llane               | PvE    | US Eastern    | Vindication |
+| 0.35       | Lothar              | PvE    | US Eastern    | Ruin        |
+| 0.35       | Madoran             | PvE    | US Central    | Ruin        |
+| 0.35       | Malygos             | PvE    | US Central    | Vindication |
+| 0.35       | Mannoroth           | PvP    | US Eastern    | Ruin        |
+| 0.35       | Medivh              | PvE    | US Eastern    | Ruin        |
+| 0.35       | Nazjatar            | PvP    | US Pacific    | Shadowburn  |
+| 0.35       | Quel'Thalas         | PvE    | US Central    | Vindication |
+| 0.35       | Ragnaros            | PvP    | US Central    | Vindication |
+| 0.35       | Ravencrest          | PvE    | US Central    | Rampage     |
+| 0.35       | Sargeras            | PvP    | US Central    | Shadowburn  |
+| 0.35       | Shadowmoon          | PvP    | US Eastern    | Vindication |
+| 0.35       | Shattered Hand      | PvP    | US Eastern    | Ruin        |
+| 0.35       | Skullcrusher        | PvP    | US Eastern    | Ruin        |
+| 0.35       | Spinebreaker        | PvP    | US Pacific    | Rampage     |
+| 0.35       | Thunderhorn         | PvE    | US Central    | Vindication |
+| 0.35       | Trollbane           | PvE    | US Eastern    | Ruin        |
+| 0.35       | Twisting Nether     | RP-PvP | US Central    | Shadowburn  |
+| 0.35       | Ursin               | PvP    | US Pacific    | Shadowburn  |
+| 0.35       | Warsong             | PvP    | US Eastern    | Ruin        |
+| 0.35       | Whisperwind         | PvE    | US Central    | Rampage     |
+| 0.35       | Wildhammer          | PvP    | US Central    | Shadowburn  |
+| 0.35       | Zul'jin             | PvE    | US Eastern    | Ruin        |
+| 0.36       | Agamaggan           | PvP    | US Central    | Shadowburn  |
+| 0.36       | Dethecus            | PvP    | US Pacific    | Rampage     |
+| 0.36       | Earthen Ring        | RP-PvE | US Eastern    | Vindication |
+| 0.36       | Malfurion           | PvE    | US Central    | Shadowburn  |
+| 0.36       | Staghelm            | PvE    | US Central    | Shadowburn  |
+| 0.36       | Thunderlord         | PvP    | US Central    | Vindication |
+| 0.37       | Exodar              | PvE    | US Eastern    | Retaliation |
+| 0.38       | Alleria             | PvE    | US Central    | Rampage     |
+| 0.38       | Gorefiend           | PvP    | US Eastern    | Vindication |
+| 0.38       | Magtheridon         | PvP    | US Eastern    | Ruin        |
+| 0.38       | Stormreaver         | PvP    | US Central    | Rampage     |
+| 0.43       | Emerald Dream       | PvE    | Paris         | Unknown     |
+| 0.44       | Bladefist           | PvP    | Paris         | Unknown     |
+| 0.44       | Bloodhoof           | PvE    | Paris         | Unknown     |
+| 0.44       | Bloodscalp          | PvP    | Paris         | Unknown     |
+| 0.44       | Burning Blade       | PvP    | Paris         | Unknown     |
+| 0.44       | Daggerspine         | PvP    | Paris         | Unknown     |
+| 0.44       | Doomhammer          | PvE    | Paris         | Unknown     |
+| 0.44       | Dragonmaw           | PvP    | Paris         | Unknown     |
+| 0.45       | Al'Akir             | PvP    | Paris         | Unknown     |
+| 0.45       | Argent Dawn         | RP-PvE | Paris         | Unknown     |
+| 0.45       | Burning Legion      | PvP    | Paris         | Unknown     |
+| 0.45       | Dragonblight        | PvE    | Paris         | Unknown     |
+| 0.45       | Karazhan            | PvP    | Dusseldorf    | Unknown     |
+| 0.45       | Sunstrider          | PvP    | Paris         | Unknown     |
+| 0.45       | The Sha'tar         | RP-PvE | Dusseldorf    | Unknown     |
+| 0.46       | Ghostlands          | PvE    | Dusseldorf    | Unknown     |
+| 0.46       | Sporeggar           | RP-PvP | Dusseldorf    | Unknown     |
+| 0.47       | Chamber of Aspects  | PvE    | Hamburg       | Unknown     |
+| 0.47       | Eonar               | PvE    | Stockholm     | Unknown     |
+| 0.47       | Outland             | PvP    | Stockholm     | Unknown     |
+| 0.48       | Boulderfist         | PvP    | Stockholm     | Unknown     |
+| 0.48       | Jaedenar            | PvP    | Stockholm     | Unknown     |
+| 0.48       | Ravenholdt          | RP-PvP | Stockholm     | Unknown     |
+| 0.48       | Stonemaul           | PvP    | Stockholm     | Unknown     |
+| 0.48       | Tarren Mill         | PvP    | Stockholm     | Unknown     |
+| 0.48       | Vek'nilash          | PvE    | Stockholm     | Unknown     |
+| 0.48       | Wildhammer          | PvE    | Stockholm     | Unknown     |
+| 0.49       | Kazzak              | PvP    | Stockholm     | Unknown     |
+| 0.56       | Archimonde          | PvP    | US Central    | Stormstrike |
+| Timeout    | Aegwynn             | PvP    | US Central    | Vengeance   |
+| Timeout    | Aerie Peak          | PvE    | Stockholm     | Unknown     |
+| Timeout    | Aerie Peak          | PvE    | US Pacific    | Nightfall   |
+| Timeout    | Agamaggan           | PvP    | Paris         | Unknown     |
+| Timeout    | Aggramar            | PvE    | Paris         | Unknown     |
+| Timeout    | Ahn'Qiraj           | PvP    | Paris         | Unknown     |
+| Timeout    | Akama               | PvP    | US Central    | Vengeance   |
+| Timeout    | Alonsus             | PvE    | Paris         | Unknown     |
+| Timeout    | Altar of Storms     | PvP    | US Eastern    | Nightfall   |
+| Timeout    | Alterac Mountains   | PvP    | US Eastern    | Nightfall   |
+| Timeout    | Aman'Thul           | PvE    | Aust. Eastern | Bloodlust   |
+| Timeout    | Anachronos          | PvE    | Paris         | Unknown     |
+| Timeout    | Andorhal            | PvP    | US Eastern    | Stormstrike |
+| Timeout    | Anetheron           | PvP    | US Eastern    | Stormstrike |
+| Timeout    | Anub'arak           | PvP    | US Eastern    | Whirlwind   |
+| Timeout    | Anvilmar            | PvE    | US Pacific    | Nightfall   |
+| Timeout    | Arathor             | PvE    | Paris         | Unknown     |
+| Timeout    | Arathor             | PvE    | US Pacific    | Reckoning   |
+| Timeout    | Area 52             | PvE    | US Eastern    | Retaliation |
+| Timeout    | Arygos              | PvE    | US Eastern    | Nightfall   |
+| Timeout    | Aszune              | PvE    | Paris         | Unknown     |
+| Timeout    | Auchindoun          | PvP    | Dusseldorf    | Unknown     |
+| Timeout    | Auchindoun          | PvP    | US Eastern    | Retaliation |
+| Timeout    | Azjol-Nerub         | PvE    | Paris         | Unknown     |
+| Timeout    | Azjol-Nerub         | PvE    | US Mountain   | Cyclone     |
+| Timeout    | Azuremyst           | PvE    | Paris         | Unknown     |
+| Timeout    | Azuremyst           | PvE    | US Pacific    | Retaliation |
+| Timeout    | Balnazzar           | PvP    | Frankfurt     | Unknown     |
+| Timeout    | Barthilas           | PvP    | Aust. Eastern | Bloodlust   |
+| Timeout    | Black Dragonflight  | PvP    | US Eastern    | Stormstrike |
+| Timeout    | Blackrock           | PvP    | US Pacific    | Bloodlust   |
+| Timeout    | Blackwing Lair      | PvP    | US Pacific    | Nightfall   |
+| Timeout    | Blade's Edge        | PvE    | Paris         | Unknown     |
+| Timeout    | Blade's Edge        | PvE    | US Pacific    | Retaliation |
+| Timeout    | Bloodfeather        | PvP    | Frankfurt     | Unknown     |
+| Timeout    | Blood Furnace       | PvP    | US Central    | Retaliation |
+| Timeout    | Bloodscalp          | PvP    | US Mountain   | Cyclone     |
+| Timeout    | Bonechewer          | PvP    | US Pacific    | Reckoning   |
+| Timeout    | Boulderfist         | PvP    | US Pacific    | Cyclone     |
+| Timeout    | Bronzebeard         | PvE    | Paris         | Unknown     |
+| Timeout    | Bronzebeard         | PvE    | US Pacific    | Cyclone     |
+| Timeout    | Bronze Dragonflight | PvE    | Paris         | Unknown     |
+| Timeout    | Burning Steppes     | PvP    | Paris         | Unknown     |
+| Timeout    | Caelestrasz         | PvE    | Aust. Eastern | Bloodlust   |
+| Timeout    | Cairne              | PvE    | US Central    | Emberstorm  |
+| Timeout    | Cho'gall            | PvP    | US Central    | Rampage     |
+| Timeout    | Chromaggus          | PvP    | Paris         | Unknown     |
+| Timeout    | Chromaggus          | PvP    | US Central    | Vengeance   |
+| Timeout    | Coilfang            | PvP    | US Pacific    | Retaliation |
+| Timeout    | Crushridge          | PvP    | Paris         | Unknown     |
+| Timeout    | Crushridge          | PvP    | US Pacific    | Cyclone     |
+| Timeout    | Daggerspine         | PvP    | US Pacific    | Cyclone     |
+| Timeout    | Dalaran             | PvE    | US Eastern    | Stormstrike |
+| Timeout    | Dalvengyr           | PvP    | US Eastern    | Stormstrike |
+| Timeout    | Darkmoon Faire      | RP-PvE | Paris         | Unknown     |
+| Timeout    | Darksorrow          | PvP    | Frankfurt     | Unknown     |
+| Timeout    | Darkspear           | PvE    | Paris         | Unknown     |
+| Timeout    | Darkspear           | PvP    | US Mountain   | Cyclone     |
+| Timeout    | Dath'Remar          | PvE    | Aust. Eastern | Bloodlust   |
+| Timeout    | Dawnbringer         | PvE    | US Central    | Retaliation |
+| Timeout    | Deathwing           | PvP    | Paris         | Unknown     |
+| Timeout    | Deathwing           | PvP    | US Mountain   | Nightfall   |
+| Timeout    | Defias Brotherhood  | RP-PvP | Frankfurt     | Unknown     |
+| Timeout    | Demon Soul          | PvP    | US Eastern    | Nightfall   |
+| Timeout    | Dentarg             | PvP    | Paris         | Unknown     |
+| Timeout    | Dentarg             | PvP    | US Eastern    | Stormstrike |
+| Timeout    | Doomhammer          | PvE    | US Mountain   | Nightfall   |
+| Timeout    | Draenor             | PvE    | Paris         | Unknown     |
+| Timeout    | Draenor             | PvE    | US Pacific    | Cyclone     |
+| Timeout    | Dragonblight        | PvE    | US Pacific    | Cyclone     |
+| Timeout    | Dragonmaw           | PvP    | US Pacific    | Reckoning   |
+| Timeout    | Draka               | PvE    | US Central    | Vengeance   |
+| Timeout    | Drak'thul           | PvP    | Paris         | Unknown     |
+| Timeout    | Dreadmaul           | PvP    | Aust. Eastern | Bloodlust   |
+| Timeout    | Dunemaul            | PvP    | Paris         | Unknown     |
+| Timeout    | Dunemaul            | PvP    | US Pacific    | Cyclone     |
+| Timeout    | Duskwood            | PvE    | US Eastern    | Stormstrike |
+| Timeout    | Earthen Ring        | RP-PvE | Frankfurt     | Unknown     |
+| Timeout    | Eitrigg             | PvE    | US Central    | Vengeance   |
+| Timeout    | Eldre'Thalas        | PvE    | US Eastern    | Reckoning   |
+| Timeout    | Emeriss             | PvP    | Paris         | Unknown     |
+| Timeout    | Executus            | PvP    | Paris         | Unknown     |
+| Timeout    | Executus            | PvP    | US Eastern    | Stormstrike |
+| Timeout    | Feathermoon         | RP-PvE | US Pacific    | Cyclone     |
+| Timeout    | Firetree            | PvP    | US Eastern    | Reckoning   |
+| Timeout    | Fizzcrank           | PvE    | US Central    | Retaliation |
+| Timeout    | Frostmane           | PvP    | Stockholm     | Unknown     |
+| Timeout    | Frostmane           | PvP    | US Central    | Reckoning   |
+| Timeout    | Frostmourne         | PvP    | Aust. Eastern | Bloodlust   |
+| Timeout    | Frostwhisper        | PvP    | Frankfurt     | Unknown     |
+| Timeout    | Frostwolf           | PvP    | US Pacific    | Bloodlust   |
+| Timeout    | Garithos            | PvP    | US Central    | Vengeance   |
+| Timeout    | Garrosh             | PvE    | US Eastern    | Emberstorm  |
+| Timeout    | Genjuros            | PvP    | Frankfurt     | Unknown     |
+| Timeout    | Ghostlands          | PvE    | US Central    | Retaliation |
+| Timeout    | Gnomeregan          | PvE    | US Pacific    | Nightfall   |
+| Timeout    | Grim Batol          | PvP    | Stockholm     | Unknown     |
+| Timeout    | Grizzly Hills       | PvE    | US Central    | Retaliation |
+| Timeout    | Gurubashi           | PvP    | US Pacific    | Reckoning   |
+| Timeout    | Hakkar              | PvP    | Paris         | Unknown     |
+| Timeout    | Hakkar              | PvP    | US Central    | Vengeance   |
+| Timeout    | Haomarush           | PvP    | Frankfurt     | Unknown     |
+| Timeout    | Haomarush           | PvP    | US Eastern    | Stormstrike |
+| Timeout    | Hellfire            | PvE    | Dusseldorf    | Unknown     |
+| Timeout    | Hellscream          | PvE    | Frankfurt     | Unknown     |
+| Timeout    | Icecrown            | PvE    | US Mountain   | Nightfall   |
+| Timeout    | Jaedenar            | PvP    | US Eastern    | Nightfall   |
+| Timeout    | Jubei'Thos          | PvP    | Aust. Eastern | Vengeance   |
+| Timeout    | Kel'Thuzad          | PvP    | US Mountain   | Nightfall   |
+| Timeout    | Khadgar             | PvE    | Paris         | Unknown     |
+| Timeout    | Khadgar             | PvE    | US Eastern    | Stormstrike |
+| Timeout    | Khaz'goroth         | PvE    | Aust. Eastern | Bloodlust   |
+| Timeout    | Khaz Modan          | PvE    | US Central    | Vengeance   |
+| Timeout    | Kil'jaeden          | PvP    | US Pacific    | Bloodlust   |
+| Timeout    | Kilrogg             | PvE    | Stockholm     | Unknown     |
+| Timeout    | Kilrogg             | PvE    | US Pacific    | Bloodlust   |
+| Timeout    | Kor'gall            | PvP    | Paris         | Unknown     |
+| Timeout    | Korgath             | PvP    | US Central    | Vengeance   |
+| Timeout    | Kul Tiras           | PvE    | Paris         | Unknown     |
+| Timeout    | Kul Tiras           | PvE    | US Central    | Vengeance   |
+| Timeout    | Laughing Skull      | PvP    | Frankfurt     | Unknown     |
+| Timeout    | Laughing Skull      | PvP    | US Central    | Vindication |
+| Timeout    | Lethon              | PvP    | US Pacific    | Nightfall   |
+| Timeout    | Lightbringer        | PvE    | Paris         | Unknown     |
+| Timeout    | Lightning's Blade   | PvP    | Frankfurt     | Unknown     |
+| Timeout    | Magtheridon         | PvP    | Frankfurt     | Unknown     |
+| Timeout    | Mal'Ganis           | PvP    | US Central    | Stormstrike |
+| Timeout    | Malorne             | PvP    | US Central    | Vengeance   |
+| Timeout    | Mazrigos            | PvP    | Paris         | Unknown     |
+| Timeout    | Moonglade           | RP-PvE | Paris         | Unknown     |
+| Timeout    | Mug'thol            | PvP    | US Central    | Vengeance   |
+| Timeout    | Muradin             | PvE    | US Central    | Vengeance   |
+| Timeout    | Nagrand             | PvE    | Aust. Eastern | Bloodlust   |
+| Timeout    | Nagrand             | PvE    | Dusseldorf    | Unknown     |
+| Timeout    | Nathrezim           | PvP    | US Mountain   | Reckoning   |
+| Timeout    | Neptulon            | PvP    | Frankfurt     | Unknown     |
+| Timeout    | Ner'zhul            | PvP    | US Pacific    | Bloodlust   |
+| Timeout    | Nordrassil          | PvE    | Frankfurt     | Unknown     |
+| Timeout    | Norgannon           | PvE    | US Eastern    | Stormstrike |
+| Timeout    | Onyxia              | PvP    | US Pacific    | Nightfall   |
+| Timeout    | Perenolde           | PvE    | US Mountain   | Cyclone     |
+| Timeout    | Proudmoore          | PvE    | US Pacific    | Bloodlust   |
+| Timeout    | Quel'Thalas         | PvE    | Frankfurt     | Unknown     |
+| Timeout    | Ragnaros            | PvP    | Frankfurt     | Unknown     |
+| Timeout    | Ravencrest          | PvP    | Frankfurt     | Unknown     |
+| Timeout    | Rexxar              | PvE    | US Central    | Vengeance   |
+| Timeout    | Runetotem           | PvE    | Frankfurt     | Unknown     |
+| Timeout    | Runetotem           | PvE    | US Central    | Vengeance   |
+| Timeout    | Saurfang            | PvE    | Aust. Eastern | Vengeance   |
+| Timeout    | Saurfang            | PvE    | Hamburg       | Unknown     |
+| Timeout    | Scarlet Crusade     | RP-PvE | US Central    | Reckoning   |
+| Timeout    | Scarshield Legion   | RP-PvP | Paris         | Unknown     |
+| Timeout    | Scilla              | PvP    | US Eastern    | Stormstrike |
+| Timeout    | Sen'jin             | PvE    | US Central    | Bloodlust   |
+| Timeout    | Sentinels           | RP-PvE | US Pacific    | Nightfall   |
+| Timeout    | Shadow Council      | RP-PvE | US Mountain   | Reckoning   |
+| Timeout    | Shadow Moon         | PvP    | Frankfurt     | Unknown     |
+| Timeout    | Shadowsong          | PvE    | Frankfurt     | Unknown     |
+| Timeout    | Shadowsong          | PvE    | US Pacific    | Reckoning   |
+| Timeout    | Shattered Halls     | PvP    | Dusseldorf    | Unknown     |
+| Timeout    | Shattered Halls     | PvP    | US Pacific    | Retaliation |
+| Timeout    | Shattered Hand      | PvP    | Frankfurt     | Unknown     |
+| Timeout    | Silver Hand         | RP-PvE | US Pacific    | Bloodlust   |
+| Timeout    | Silvermoon          | PvE    | Frankfurt     | Unknown     |
+| Timeout    | Silvermoon          | PvE    | US Pacific    | Reckoning   |
+| Timeout    | Skullcrusher        | PvP    | Frankfurt     | Unknown     |
+| Timeout    | Skywall             | PvE    | US Pacific    | Reckoning   |
+| Timeout    | Smolderthorn        | PvP    | US Eastern    | Reckoning   |
+| Timeout    | Spinebreaker        | PvP    | Frankfurt     | Unknown     |
+| Timeout    | Spirestone          | PvP    | US Pacific    | Reckoning   |
+| Timeout    | Steamwheedle Cartel | RP-PvE | Paris         | Unknown     |
+| Timeout    | Steamwheedle Cartel | RP-PvE | US Eastern    | Stormstrike |
+| Timeout    | Stonemaul           | PvP    | US Pacific    | Cyclone     |
+| Timeout    | Stormrage           | PvE    | Frankfurt     | Unknown     |
+| Timeout    | Stormrage           | PvE    | US Eastern    | Ruin        |
+| Timeout    | Stormreaver         | PvP    | Frankfurt     | Unknown     |
+| Timeout    | Stormscale          | PvP    | Frankfurt     | Unknown     |
+| Timeout    | Stormscale          | PvP    | US Pacific    | Cyclone     |
+| Timeout    | Suramar             | PvE    | US Pacific    | Cyclone     |
+| Timeout    | Sylvanas            | PvP    | Frankfurt     | Unknown     |
+| Timeout    | Talnivarr           | PvP    | Paris         | Unknown     |
+| Timeout    | Tanaris             | PvE    | US Eastern    | Nightfall   |
+| Timeout    | Terenas             | PvE    | Frankfurt     | Unknown     |
+| Timeout    | Terenas             | PvE    | US Mountain   | Reckoning   |
+| Timeout    | Terokkar            | PvE    | Paris         | Unknown     |
+| Timeout    | Terokkar            | PvE    | US Central    | Retaliation |
+| Timeout    | Thaurissan          | PvP    | Aust. Eastern | Bloodlust   |
+| Timeout    | The Maelstrom       | PvP    | Frankfurt     | Unknown     |
+| Timeout    | The Scryers         | RP-PvE | US Pacific    | Retaliation |
+| Timeout    | The Underbog        | PvP    | US Central    | Retaliation |
+| Timeout    | The Venture Co      | RP-PvP | Frankfurt     | Unknown     |
+| Timeout    | The Venture Co      | RP-PvP | US Pacific    | Nightfall   |
+| Timeout    | Thorium Brotherhood | RP-PvE | US Central    | Vengeance   |
+| Timeout    | Thrall              | PvE    | US Eastern    | Stormstrike |
+| Timeout    | Thunderhorn         | PvE    | Frankfurt     | Unknown     |
+| Timeout    | Tichondrius         | PvP    | US Pacific    | Bloodlust   |
+| Timeout    | Trollbane           | PvP    | Paris         | Unknown     |
+| Timeout    | Turalyon            | PvE    | Frankfurt     | Unknown     |
+| Timeout    | Turalyon            | PvE    | US Eastern    | Stormstrike |
+| Timeout    | Twilight's Hammer   | PvP    | Paris         | Unknown     |
+| Timeout    | Twisting Nether     | PvP    | Frankfurt     | Unknown     |
+| Timeout    | Uldaman             | PvE    | US Eastern    | Nightfall   |
+| Timeout    | Uldum               | PvE    | US Pacific    | Cyclone     |
+| Timeout    | Undermine           | PvE    | US Eastern    | Nightfall   |
+| Timeout    | Vashj               | PvP    | Frankfurt     | Unknown     |
+| Timeout    | Vek'nilash          | PvE    | US Central    | Bloodlust   |
+| Timeout    | Velen               | PvE    | US Pacific    | Retaliation |
+| Timeout    | Windrunner          | PvE    | US Pacific    | Reckoning   |
+| Timeout    | Xavius              | PvP    | Paris         | Unknown     |
+| Timeout    | Ysera               | PvE    | US Eastern    | Stormstrike |
+| Timeout    | Ysondre             | PvP    | US Eastern    | Stormstrike |
+| Timeout    | Zangarmarsh         | PvE    | US Mountain   | Retaliation |
+| Timeout    | Zenedar             | PvP    | Paris         | Unknown     |
+| Timeout    | Zuluhed             | PvP    | US Eastern    | Stormstrike |
+| Unknown    | Galakrond           | PvE    | US Pacific    | Retaliation |
+| Unknown    | Gundrak             | PvP    | Aust. Eastern | Vengeance   |
++------------+---------------------+--------+---------------+-------------+
